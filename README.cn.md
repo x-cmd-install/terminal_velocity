@@ -4,13 +4,25 @@
 
 Currently in Maintence Mode - A fast note-taking app for the UNIX terminal
 
-![terminal_velocity](https://repo.x-cmd.io/terminal_velocity.svg)
+![terminal_velocity](https://repo.x-cmd.io/terminal_velocity.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install terminal_velocity
 ```
+
+## 代码洞察
+
+合计: **1,637** 行代码（覆盖前 5 种语言、共 **18** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 1,566 | 69 | 339 | 12 |
+| Toml | 50 | 0 | 8 | 1 |
+| Makefile | 21 | 1 | 8 | 1 |
+| Markdown | 0 | 101 | 34 | 2 |
+| Text | 0 | 604 | 121 | 2 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install terminal_velocity
 
 - **最新版本**: `rewrite-2.0` (2026-07-03)
 - **最近提交**: 2026-07-03
-- **发布时间**: 2026-07-03T20:13:56Z
 
 ## 流行度
 
@@ -37,20 +48,11 @@ x install terminal_velocity
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 1 | 1 |
+| last180d | 2026-03-14 | 1 | 0 | 0 | 0 | 1 | 1 |
 | 360d | 2025-09-15 | 1 | 0 | 0 | 0 | 1 | 1 |
-
-## 代码规模
-
-合计: **1,637** 行代码（覆盖前 5 种语言、共 **18** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 1,566 | 69 | 339 | 12 |
-| Toml | 50 | 0 | 8 | 1 |
-| Makefile | 21 | 1 | 8 | 1 |
-| Markdown | 0 | 101 | 34 | 2 |
-| Text | 0 | 604 | 121 | 2 |
+| last720d | 2024-09-20 | 1 | 0 | 0 | 0 | 1 | 1 |
 
 ## 改进这些数据
 
@@ -61,4 +63,4 @@ terminal_velocity 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:03:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:54:41Z._

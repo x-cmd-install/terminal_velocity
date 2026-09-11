@@ -118,4 +118,3 @@ total:
 ---
 
 ---
-{"id":348781101,"author":{"login":"vhp","id":340468,"node_id":"MDQ6VXNlcjM0MDQ2OA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBAEUCs4Uyfot","tag_name":"rewrite-2.0","target_commitish":"main","name":"2.0 Release","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-03T20:03:37Z","updated_at":"2026-07-03T20:14:23Z","published_at":"2026-07-03T20:13:56Z","assets":[],"body":"**Full Changelog**: https://github.com/vhp/terminal_velocity/compare/archive-master-2026-07-03...rewrite-2.0"}

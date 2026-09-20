@@ -4,7 +4,7 @@
 
 Currently in Maintence Mode - A fast note-taking app for the UNIX terminal
 
-![terminal_velocity](https://repo.x-cmd.io/terminal_velocity.svg)
+[![x-cmd/install — terminal_velocity Code Quality Monitoring Repo Card](https://repo.x-cmd.io/terminal_velocity.svg)](https://x-cmd.com/install/terminal_velocity)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **1,637** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 0 | 1 | 1 |
-| last180d | 2026-03-22 | 1 | 0 | 0 | 0 | 1 | 1 |
-| 360d | 2025-09-23 | 1 | 0 | 0 | 0 | 1 | 1 |
-| last720d | 2024-09-28 | 1 | 0 | 0 | 0 | 1 | 1 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 1 | 1 |
+| last180d | 2026-03-24 | 1 | 0 | 0 | 0 | 1 | 1 |
+| 360d | 2025-09-25 | 1 | 0 | 0 | 0 | 1 | 1 |
+| last720d | 2024-09-30 | 1 | 0 | 0 | 0 | 1 | 1 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for terminal_velocity lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:02:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:03:48Z._

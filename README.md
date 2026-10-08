@@ -14,15 +14,15 @@ x install terminal_velocity
 
 ## Code insight
 
-Total: **1,919** lines of code across **18** files in the top 5 languages.
+Total: **2,536** lines of code across **19** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,846 | 80 | 381 | 12 |
-| Toml | 50 | 0 | 8 | 1 |
+| Python | 2,467 | 96 | 499 | 13 |
+| Toml | 46 | 0 | 8 | 1 |
 | Makefile | 23 | 1 | 9 | 1 |
 | Markdown | 0 | 152 | 53 | 2 |
-| Text | 0 | 616 | 121 | 2 |
+| Text | 0 | 646 | 121 | 2 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **1,919** lines of code across **18** files in the top 5 languages.
 ## Release
 
 - **Latest**: `rewrite-2.0` (2026-07-03)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-10-08
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **1,919** lines of code across **18** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 5 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 121
+- **Releases**: 1 · **Merged PRs**: 5 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 136
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 1 | 0 | 6 |
-| 90d | 2026-07-09 | 0 | 0 | 0 | 1 | 0 | 6 |
-| last180d | 2026-04-10 | 1 | 0 | 0 | 1 | 0 | 7 |
-| 360d | 2025-10-12 | 1 | 0 | 0 | 1 | 0 | 7 |
-| last720d | 2024-10-17 | 1 | 0 | 0 | 1 | 0 | 7 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 15 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 1 | 0 | 20 |
+| 90d | 2026-07-10 | 0 | 0 | 0 | 1 | 0 | 20 |
+| last180d | 2026-04-11 | 1 | 0 | 0 | 1 | 0 | 21 |
+| 360d | 2025-10-13 | 1 | 0 | 0 | 1 | 0 | 21 |
+| last720d | 2024-10-18 | 1 | 0 | 0 | 1 | 0 | 22 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for terminal_velocity lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:59:14Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:10:09Z._

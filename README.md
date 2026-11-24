@@ -47,12 +47,12 @@ Total: **2,536** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 1 | 0 | 20 |
-| last180d | 2026-05-27 | 1 | 0 | 0 | 1 | 0 | 21 |
-| 360d | 2025-11-28 | 1 | 0 | 0 | 1 | 0 | 21 |
-| last720d | 2024-12-03 | 1 | 0 | 0 | 1 | 0 | 22 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 1 | 0 | 20 |
+| last180d | 2026-05-28 | 1 | 0 | 0 | 1 | 0 | 21 |
+| 360d | 2025-11-29 | 1 | 0 | 0 | 1 | 0 | 21 |
+| last720d | 2024-12-04 | 1 | 0 | 0 | 1 | 0 | 22 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for terminal_velocity lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:08:41Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:28:02Z._
